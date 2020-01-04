@@ -1,0 +1,8 @@
+﻿Day, Temperature, WindSpeed, WindDirection, Weather
+16/06/2018, 27, 9, N, Rain
+17/06/2018, 23, 12, E, Rain
+18/06/2018, 30, 16, E, Sunny
+19/06/2018, 29, -3, NE, Sunny
+20/06/2018, 30, 18, NE, Cloudy
+21/06/2018, 29, -5, N, Sunny
+22/06/2018, NaN, 20, E, Rain
